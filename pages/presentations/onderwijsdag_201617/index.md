@@ -18,5 +18,12 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/intro.md' }}" class="slides__homepage"></section>
 </section>
 <section class="slides__chapter">
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/problems__1.md' }}" class="slides__homepage"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/problems__1.md' }}" class="slides__chapter-intro" data-background-color="#E90"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/problems__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/problems__3.md' }}"></section>
+</section>
+<section class="slides__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__1.md' }}" class="slides__chapter-intro" data-background-color="#0AC"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__3.md' }}"></section>
 </section>
