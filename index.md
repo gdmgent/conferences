@@ -1,0 +1,6 @@
+---
+layout  : shared/base
+---
+
+HALLO
+=====
