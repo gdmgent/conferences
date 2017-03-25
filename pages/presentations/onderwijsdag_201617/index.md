@@ -24,11 +24,14 @@ page_styles: ['/css/ahs.css']
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__1.md' }}" class="home"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__2.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/chamilo.png' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__3.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__4.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__5.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__6.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__4.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__5.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__6.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__7.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__8.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__9.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__1.md' }}" class="home"></section>
