@@ -1,5 +1,5 @@
-Syllabi &gt; **Introductie**
----------------------------- 
+Syllabus **/ Introductie**
+--------------------------
 
 - Syllabi van _Web & Nieuwe Media_ zijn **opensource**.
   - Gehost op **GitHub Pages**

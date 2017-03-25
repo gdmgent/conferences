@@ -23,12 +23,15 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/problems__3.md' }}"></section>
 </section>
 <section class="slide__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__3.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__4.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__5.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__6.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/slack.png' }}"></section>
+</section>
+<section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__1.md' }}" class="home"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__2.md' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__3.md' }}"></section>
-</section>
-<section class="slide__chapter">
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/syllabi__1.md' }}" class="home"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/syllabi__2.md' }}" data-ahs-background-image="http://i.huffpost.com/gen/1698265/images/o-MATH-ON-CHALKBOARD-facebook.jpg"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/syllabi__3.md' }}"></section>
 </section>

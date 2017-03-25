@@ -50,7 +50,7 @@ var RevealService = {
             if (slide.getAttribute("data-ahs-background-image") !== null && slide.querySelector('.ahs-background-image') == null) {
               var img = document.createElement('span');
               img.setAttribute('class', 'ahs-background-image');
-              img.style.background = "url(http://i.huffpost.com/gen/1698265/images/o-MATH-ON-CHALKBOARD-facebook.jpg)";
+              img.style.background = "url(" + slide.dataset.ahsBackgroundImage + ")";
               slide.insertBefore(img, slide.firstElementChild);
             }
           });
