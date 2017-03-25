@@ -1,7 +1,7 @@
-Problemen
----------
+Problemen &gt; Chamilo
+----------------------
 
-- g
-- h
+- Chamilo is onbruikbaar om code te delen
+- 
 - i
 - k

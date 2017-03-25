@@ -8,34 +8,25 @@ ready(function(){
 
   var App = {
     "init": function() {
-      this._revealTransitions = [
-        'none',
-        'concave',
-        'convex',
-        'fade',
-        'slide',
-      ];
+      this._revealService = RevealService; // Clone RevealService object
+      this._revealService.init(); // Initialize the RevealService
+      this._appInitialized = false; // App initialized
 
-      this.initReveal();
+      var that = this;
+
+      this._revealService.initReveal().then(
+        function(rjs_result) {
+          console.log(rjs_result);
+          that._appInitialized = true;
+          that.addEventListeners();
+        },
+        function(rjs_error) {
+          console.log(rjs_error);
+          that._appInitialized = false;
+        }
+      );
     },
-    "initReveal": function() {
-          Reveal.initialize({
-          controls: true,
-          progress: true,
-          history: true,
-          center: true,
-          transition: this._revealTransitions[2],
-
-          // Optional reveal.js plugins
-          dependencies: [
-              { src: window.baseurl + '/vendor/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-              { src: window.baseurl + '/vendor/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-              { src: window.baseurl + '/vendor/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-              { src: window.baseurl + '/vendor/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-              { src: window.baseurl + '/vendor/reveal.js/plugin/zoom-js/zoom.js', async: true },
-              { src: window.baseurl + '/vendor/reveal.js/plugin/notes/notes.js', async: true }
-          ]
-      }); 
+    "addEventListeners": function() {
     }
   };
   App.init();

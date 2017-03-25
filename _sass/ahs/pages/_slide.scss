@@ -1,0 +1,196 @@
+
+$blue: map-get($map: $color-ahs, $key: blauw);
+$green: map-get($map: $color-ahs, $key: groen);
+$orange: map-get($map: $color-ahs, $key: oranje);
+$purple: map-get($map: $color-ahs, $key: puchsia);
+
+.slides--fullscreen {
+    padding: 0 !important;
+    
+    & > section {
+        padding: 0 !important;
+
+        & > section {
+            padding: 0 !important;
+            background: rgba(252, 252, 252, 1);
+        }        
+    }
+
+    & section[data-ahs-background-image] {
+        position: relative;
+        padding: 0 !important;
+        color: rgba(11, 11, 11, 1);
+
+        & > * {
+            width: 50%;
+            text-align: left;
+            margin: 1rem;
+        }
+
+        & > ul {
+            display: block;
+        }
+        
+        & .ahs-background-image {
+            position: absolute;
+            right: 0;
+            top: 0;
+            content: " ";
+            display: block;
+            width: 50%;
+            height: 100%;
+            background: rgba(255, 0, 0, 1);
+            background-size: cover;
+            background-position: center center;
+            -webkit-clip-path: polygon(40% 0, 100% 0, 100% 100%, 0% 100%);
+            clip-path: polygon(40% 0, 100% 0, 100% 100%, 0% 100%);
+            margin: 0;
+        }
+    }
+
+    & .slide__chapter {
+
+        & .home {
+            display: flex !important;
+            flex-direction: column;
+            justify-content: center;
+            flex-wrap: nowrap;
+            background: $blue;
+
+            & > * {
+                margin: 2rem;
+                color: mix(white, $blue, 72%);
+            }
+
+            & h1 {
+                font-size: 3.8rem;
+                text-align: left;
+                color: mix(black, $blue, 60%);
+                margin-bottom: 0;
+
+                & small {
+                    font-size: 0.52em;
+                    color: mix(white, $blue, 72%);
+                }
+
+                &::after {
+                    display: block;
+                    content: " ";
+                    width: 3.8rem;
+                    height: 4px;
+                    background: mix(black, $blue, 60%);
+                }
+            }
+
+            & h2 {
+                font-size: 2rem;
+                color: mix(black, $blue, 60%);
+                text-align: left;
+                margin-bottom: 0;
+
+                & > a {
+                    color: mix(black, $blue, 60%);    
+                }
+            }
+        }
+        
+
+        &--green {
+
+            & .home {
+
+                background: $green;
+
+                & > * {
+                    color: mix(white, $green, 72%);
+                }
+
+                & h1 {
+                    color: mix(black, $green, 60%);
+
+                    & small {
+                        color: mix(white, $green, 72%);
+                    }
+
+                    &::after {
+                        background: mix(black, $green, 60%);
+                    }
+                }
+
+                & h2 {
+                    color: mix(black, $green, 60%);
+
+                    & > a {
+                        color: mix(black, $green, 60%);    
+                    }
+                }  
+            }     
+        }
+
+        &--orange {
+
+            & .home {
+
+                background: $orange;
+
+                & > * {
+                    color: mix(white, $orange, 72%);
+                }
+
+                & h1 {
+                    color: mix(black, $orange, 60%);
+
+                    & small {
+                        color: mix(white, $orange, 72%);
+                    }
+
+                    &::after {
+                        background: mix(black, $orange, 60%);
+                    }
+                }
+
+                & h2 {
+                    color: mix(black, $orange, 60%);
+
+                    & > a {
+                        color: mix(black, $orange, 60%);    
+                    }
+                }  
+            }     
+        }
+
+        &--purple {
+
+            & .home {
+
+                background: $purple;
+
+                & > * {
+                    color: mix(white, $purple, 72%);
+                }
+
+                & h1 {
+                    color: mix(black, $purple, 60%);
+
+                    & small {
+                        color: mix(white, $purple, 72%);
+                    }
+
+                    &::after {
+                        background: mix(black, $purple, 60%);
+                    }
+                }
+
+                & h2 {
+                    color: mix(black, $purple, 60%);
+
+                    & > a {
+                        color: mix(black, $purple, 60%);    
+                    }
+                }  
+            }     
+        }
+
+        
+    }
+}
