@@ -2,6 +2,6 @@ Tools in gebruik
 ================
 
 - Chamilo
-- Syllabus (GitHub Pages)
 - GitHub / GitLab
+- Syllabus (GitHub Pages)
 - Slack

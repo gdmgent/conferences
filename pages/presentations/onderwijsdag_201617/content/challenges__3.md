@@ -1,4 +1,4 @@
-Problemen
+Uitdagingen
 ---------
 
 - Tracken van studenten is moeilijk;
