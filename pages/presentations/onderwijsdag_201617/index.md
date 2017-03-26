@@ -22,10 +22,10 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/whoarewe__2.md' }}"></section>
 </section>
 <section class="slide__chapter">
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__0.md' }}" class="home"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__1.md' }}" class="home"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__2.md' }}" data-ahs-background-image="http://i.huffpost.com/gen/1698265/images/o-MATH-ON-CHALKBOARD-facebook.jpg"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__3.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__3.md' }}" data-ahs-background-image="http://i.huffpost.com/gen/1698265/images/o-MATH-ON-CHALKBOARD-facebook.jpg"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__4.md' }}"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/tools__1.md' }}" class="home"></section>

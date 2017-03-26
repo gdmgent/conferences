@@ -1,11 +1,12 @@
 Uitdagingen
 -----------
 
-- Chamilo is onhandig om **code** te delen:
+- Web en Nieuwe Media is een vakgebied dat snel evolueert  
+  en waar nieuwe dingen **onmiddellijk gepubliceerd** worden.
 
-   - comprimeren en uploaden van bestanden
-   - voor updates alles opnieuw doen,  
-     of het is niet zichtbaar voor studenten
-   - beheer van bestanden is omslachtig
+- Meerdere keren per dag wordt iets wat we gebruiken geüpdatet:
 
- - Chamilo is niet gemaakt om samen te werken met studenten
+  - tools, applicaties
+  - softwarebibliotheek
+  - framework
+  - documentatie
