@@ -1,10 +1,10 @@
 Tools **/ Chamilo**
 -------------------
 
-- Private **aankondigingen** versturen (ook via email)
+- Privé**aankondigingen** versturen (ook via email)
 - **Documenten**  
-  Gevoelige documenten die niet voor de buitenwereld kenbaar zijn
-- **Links**
+  Die niet publiek mogen staan
+- **Koppelingen**
   - Corresponderende Syllabus
   - Slack-kanaal
   - GitHub Code-repository
