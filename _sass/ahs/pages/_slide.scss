@@ -4,6 +4,12 @@ $green: map-get($map: $color-ahs, $key: groen);
 $orange: map-get($map: $color-ahs, $key: oranje);
 $purple: map-get($map: $color-ahs, $key: puchsia);
 
+@keyframes AnimateBackground {
+    0% { background: rgba($blue, .2); }
+    50% { background: rgba($purple, .2); }
+    100% { background: rgba($blue, .2); }
+}
+
 .slides--fullscreen {
     padding: 0 !important;
     line-height: 1.425 !important;
