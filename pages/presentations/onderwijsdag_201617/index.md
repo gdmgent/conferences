@@ -44,7 +44,7 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__2.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/sv2_1.png' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__3.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/sv2_2.png' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__4.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/sv2_3.png' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__5.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/sv2_3.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/future__5.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/prose_1.png' }}"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/questions__1.md' }}" class="home"></section>

@@ -9,4 +9,3 @@ Toekomst **/ Syllabus 2.0**
   - Presentaties
   - FAQ's
   - Nieuws
-- Ieder hoofdbestandsdeel bevat samenvattende inhoud (bv. oplijstingen).
