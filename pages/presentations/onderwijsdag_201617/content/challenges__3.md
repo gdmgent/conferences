@@ -9,5 +9,5 @@ Uitdagingen
    - om code en designs **uit te wisselen**;
    - om code**wijzigingen** bij te houden.
 
-- Deze *tools* worden bij voorkeur ook
+- Deze *tools* worden bij voorkeur ook  
   **in het werkveld gebruikt**.
