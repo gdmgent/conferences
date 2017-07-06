@@ -1,16 +1,5 @@
-Wie zijn wij?
--------------
+Wat is het?
+-----------
 
-- Opleiding *Bachelor in de  
-  **grafische en digitale media***
-- Domeingroep  
-  _Web and New Media_
-
-Wij geven les in  
-**programmeren en ontwerpen**  
-van **websites en mobile apps**.
-
-- Docenten
-   - Philippe De Pauw - Waterschoot  
-   - Olivier Parent  
-   - ...
+- 11 deelnemende groepen: HoGent, Howest, Odisee en enkele bedrijfsgroepen
+- 3 teams uit onze opleiding, waarvan 1 alumni team

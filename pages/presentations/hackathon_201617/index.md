@@ -22,10 +22,10 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/whatisit__2.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/pattern_1.png' }}"></section>
 </section>
 <section class="slide__chapter">
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__1.md' }}" class="home"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__2.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/pattern_1.png' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__3.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/pattern_1.png' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/challenges__4.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/pattern_1.png' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/winners__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/winners__2.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/nmd4live.jpg' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/winners__3.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/supertof.jpg' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/winners__4.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/prodev4live.jpg' }}"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/questions__1.md' }}" class="home"></section>
