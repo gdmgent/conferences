@@ -1,7 +1,7 @@
-**New Media Development**
+MTP **/ New Media Development**
 -------------------------
 
-"Development" van interactieve digitale producten:
+**Design** & **Development** van interactieve digitale producten:
 
 - **Websites**   
 Websites en web apps.
