@@ -1,12 +1,11 @@
-Jobs **/ Chamilo**
--------------------
+Jobs **/ Web & Mobile**
+-----------------------
 
-- Privé**aankondigingen** versturen (ook via email)
-- **Documenten**  
-  Die niet publiek mogen staan
-- **Koppelingen**
-  - Corresponderende Syllabus
-  - Slack-kanaal
-  - GitHub Code-repository
-- **Opdrachten**  
-  Eventueel indienen van opdrachten
+- **Webdesigner**  
+  <small>Ontwerpen | HTML & CSS | Basis Client-Side (JavaScript en bibliotheken zoals jQuery)</small>
+- **Front-End Web Developer**  
+  <small>HTML & CSS | Client-Side (JavaScript en afgeleiden zoals bijv. TypeScript) | Automatisatie</small>
+- **Back-End Web Developer**  
+  <small>Basis Client-Side | Server-Side (C#, PHP, Node.js …) | Databases | Servers</small>
+- **Full-stack Web Developer**  
+  <small>Alles!</small>
