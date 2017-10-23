@@ -24,3 +24,14 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/jobs__1.md' }}" class="home"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/jobs__2.md' }}" data-ahs-background-image="{{ page_back_str }}/{{ page_path_folder | append: 'content/images/pattern_1.png' }}"></section>
 </section>
+<section class="slide__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__2.md' }}"></section>
+</section>
+<section class="slide__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__3.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__4.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__5.md' }}"></section>
+</section>
