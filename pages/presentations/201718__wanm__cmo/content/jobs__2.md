@@ -7,5 +7,5 @@ Jobs **/ Web & Mobile**
   <small>HTML & CSS | Client-Side (JavaScript en afgeleiden) | Automatisatie</small>
 - **App Designer**  
   <small>Ontwerpen | HTML & CSS | XAML</small>
-- <abbr title="User Experience">**UX**</abbr> **Designer**  
+- **<abbr title="User Experience">UX</abbr> Designer**  
   <small>Informatie categorisatie/classificatie | Labeling | Sitemap | Search | Metadata | Wireframes | …</small>    

@@ -1,9 +1,10 @@
 CMO **/ Web & New Media**
 -------------------------
 
-- **Design** & **Prototyping** van **nieuwe media**: Website, Mobile, Wearables, …
-- **Gebruikerservaring of User eXperience Design** van **nieuwe media**.
-- **Development** van **statische websites**.
+- **Design** & **Prototyping** van **nieuwe media**  
+  <small>Website, Mobile, Wearables …</small>
+- **User eXperience Design** van **nieuwe media**
+- **Development** van **statische websites**
 
 > Zowel het **bedenken** van het concept,  
 > het **ontwerpen** van de gebruikersinterface  
