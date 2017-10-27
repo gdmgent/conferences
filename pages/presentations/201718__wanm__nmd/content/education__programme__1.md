@@ -1,4 +1,5 @@
-Programma
+Opleiding
 =========
 
-Welke technologische opleidingsonderdelen uit het domein Web & New Media zal je volgen?
+Welke technologische opleidingsonderdelen uit het domein  
+**Web & New Media** zal je volgen?

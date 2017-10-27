@@ -1,9 +1,10 @@
 Jobs **/ Web & Mobile**
 -----------------------
 
-- **Native & hybrid mobile apps Developer**   
+- **Mobile Apps Developer**  
   <small>Ionic, React Native, Xamarin, ...</small> 
-- **CMS'en (Drupal, WordPress, ...)**
+- **Contentmanagementsystemen**  
+  <small>bv. Drupal of WordPress</small>
   - **Designer**  
     <small>Thema ontwerpen</small>
   - **Themer**  

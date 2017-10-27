@@ -1,12 +1,13 @@
 MTP **/ New Media Development**
 -------------------------
 
-**Design** & **Development** van interactieve digitale producten:
+**Ontwikkelen** van interactieve digitale producten:
 
-- **Websites**   
-Websites en web apps.
-- **Nieuwe Media**  
-Apps voor: Mobile, Wearables, IoT, …
+- **Websites**
+- **Webapps**
+- **Mobiele apps**
+- **Internet of Things**
+- en andere **Nieuwe Media**
 
 > Zowel het **bedenken** van het concept,  
 > het **ontwerpen** van de gebruikersinterface  

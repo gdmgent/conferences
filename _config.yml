@@ -16,7 +16,7 @@ copyright   : Copyright 2010-17 Artevelde University College Ghent. All Rights R
 
 # Build settings
 # --------------
-gems:
+plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-mentions

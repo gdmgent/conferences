@@ -12,4 +12,4 @@ Student NMD heeft een ernstig geval van **CLIPO**
 - **Passie**  
   <small>Het is **ook** je hobby!</small>
 - **Open geest**  
-  <small>Interesse voor development, maar ook voor design (in de ruime zin). Je toont dus evengoed interesse voor kunst, cultuur, wetenschap, techniek, politiek, … Wie wordt je klant?</small>
+  <small>Interesse voor development, maar ook voor design (in de ruime zin). Je toont dus evengoed interesse voor kunst, cultuur, wetenschap, techniek, politiek …</small>

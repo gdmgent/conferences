@@ -5,4 +5,6 @@ Opleiding **/ Web Technology II**
 > - 7 studiepunten - 3 lestijden
 > - [ECTS-fiche]
 
-[ECTS-fiche]: https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=63944&b=5&c=1
+[ECTS-fiche]:
+
+Als NMD-student bouw je een **dynamische website** met **PHP**, **JavaScript** en dataformaten.
