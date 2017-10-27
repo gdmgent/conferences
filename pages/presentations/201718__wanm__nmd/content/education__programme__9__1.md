@@ -1,3 +1,0 @@
-Opleiding **/ Web Development II**
-----------------------------------
-

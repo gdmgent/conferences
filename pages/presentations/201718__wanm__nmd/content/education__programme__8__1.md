@@ -1,3 +1,0 @@
-Opleiding **/ Mobile Development II**
-------------------------------------
-

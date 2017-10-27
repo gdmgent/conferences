@@ -1,2 +1,0 @@
-Opleiding **/ Web Technology II**
-----------------------------------
