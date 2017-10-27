@@ -1,7 +1,7 @@
 ---
 layout      : revealjs.fullscreen
-title       : Web & New Media in CMO
-permalink   : /presentations/wanm-cmo/
+title       : Web & New Media in AVD
+permalink   : /presentations/wanm-avd/
 page_styles: ['/css/ahs.css']
 ---
 
@@ -32,9 +32,6 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__2.md' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__2__1.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__3.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__3__1.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__4.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__4__1.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__5.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__5__1.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__programme__4__1.md' }}"></section>
 </section>
