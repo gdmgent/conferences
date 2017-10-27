@@ -1,7 +1,5 @@
-NMD **/ Inhoud**
-----------------
-
-### Semester 2
+Inhoud **/ Semester 2**
+-----------------------
 
  - 4 sp [New Media Design I]( https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=63943&b=5&c=1)  
    Doorlopen van een workflow om interactieve digitale producten te ontwerpen.

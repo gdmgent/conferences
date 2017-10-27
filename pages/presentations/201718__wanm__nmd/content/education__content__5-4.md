@@ -1,7 +1,5 @@
-NMD **/ Inhoud**
--------------------
-
-### Semester 4
+Inhoud **/ Semester 4**
+-----------------------
 
  - 6 sp [Mobile Development II](https://bamaflexweb.arteveldehs.be/BMFUIDetailxOLOD.aspx?a=64417&b=5&c=1)  
    Lorem

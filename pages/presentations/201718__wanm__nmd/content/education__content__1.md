@@ -1,5 +1,5 @@
-NMD **/ Inhoud**
--------------------
+Inhoud **/ NMD**
+----------------
 
 - **Ontwerpen**  
 <small><abbr title="User Experience">UX</abbr>, Web, Mobile, Smartwatch …</small>

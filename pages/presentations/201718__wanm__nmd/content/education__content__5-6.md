@@ -1,7 +1,5 @@
-NMD **/ Inhoud**
--------------------
-
-### Semester 6
+Inhoud **/ Semester 6**
+-----------------------
 
  - 8 sp Crossmediaal Project - New Media Development (vervolg)  
    Een interactief digitaal product ontwikkelen voor een echte klant.

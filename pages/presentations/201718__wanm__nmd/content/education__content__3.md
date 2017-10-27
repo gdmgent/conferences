@@ -1,5 +1,5 @@
-NMD **/ Inhoud**
--------------------
+Inhoud **/ NMD**
+----------------
 
 - **Contentmanagementsystemen**  
   <small>Zowel ontwerpen en bouwen van sjablonen als het programmeren van uitbreidingen.  
