@@ -1,4 +1,4 @@
-GMB **/ Student**
+CMO **/ Student**
 ---------------
 
 Student CMO heeft een ernstig geval van **CLIPO**

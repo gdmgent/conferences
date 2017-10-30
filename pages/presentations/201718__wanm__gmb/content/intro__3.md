@@ -1,4 +1,4 @@
-GMB **/ Web & New Media**
+CMO **/ Web & New Media**
 -------------------------
 
 - **Ontwerpen**    
