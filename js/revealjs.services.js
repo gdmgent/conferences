@@ -53,6 +53,12 @@ var RevealService = {
               img.style.backgroundImage = "url(" + slide.dataset.ahsBackgroundImage + ")";
               slide.insertBefore(img, slide.firstElementChild);
             }
+            if (slide.getAttribute("data-ahs-full-background-image")) {
+              var img = document.createElement('span');
+              img.setAttribute('class', 'ahs-full-background-image');
+              img.style.backgroundImage = "url(" + slide.dataset.ahsFullBackgroundImage + ")";
+              slide.insertBefore(img, slide.firstElementChild);
+            }
           });
     }
 

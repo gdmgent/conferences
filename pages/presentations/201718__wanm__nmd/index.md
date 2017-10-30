@@ -38,3 +38,24 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__5-5.md' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__5-6.md' }}"></section>
 </section>
+<section class="slide__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__2.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_webd2_downtown.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__3.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad1_aidr.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__4.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad1_euroquiz.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__5.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad2_olympus.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__6.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad2_creathing.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__7.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad2_festivote.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__8.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_wdad3_goodfood.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__9.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_wdad3_tasty.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__10.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_wdad3_fome_2.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__11.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad3_zwerfvuil.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__12.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_nmdad3_trash.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__13.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_wdad4_lets.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__14.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_wdad4_lets_2.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__15.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_azdelta.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__16.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_gazet.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__17.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_mkg.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__18.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_trots.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__19.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_bp_streetartmap.png"></section>
+</section>

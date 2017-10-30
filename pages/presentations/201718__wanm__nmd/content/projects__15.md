@@ -1,0 +1,4 @@
+Projecten **/ Externe Projecten NMD**
+-------------------------------------
+
+<small>**azdelta** - Opdracht: doel is het ontwikkelen van een website die kinderen informeert over een verblijf in het ziekenhuis. De doelgroep zijn zowel kinderen die binnenkort opgenomen worden als ook klasgenootjes en andere geïnteresseerde kinderen. De bezoeker kiest bij aanvang uit een van drie leeftijdsgroepen, en krijgt informatie gepresenteerd passend bij deze leeftijd. Sommige elementen komen terug voor meerdere leeftijdsgroepen, sommige elementen kennen varianten voor verschillende leeftijdsgroepen (bijv. meer informatie), andere elementen zijn uniek voor een leeftijdsgroep. Technologieën: HTML, CSS, JavaScript, MySQL, PHP, Drupal, Angular, ... </small>
