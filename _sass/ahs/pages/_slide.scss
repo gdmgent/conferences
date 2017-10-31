@@ -77,7 +77,7 @@ $purple: map-get($map: $color-ahs, $key: puchsia);
         padding: 0 !important;
 
         & > * {
-            width: 100%;
+            width: auto;
         }
         
         & .ahs-full-background-image {

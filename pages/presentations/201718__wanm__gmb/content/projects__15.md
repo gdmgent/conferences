@@ -1,4 +1,4 @@
-Projecten **/ Externe Projecten NMD**
+Projecten **/ Externe Projecten GMB**
 -------------------------------------
 
-<small>**LET's** - Opdracht: bedenk, ontwerp en programmeer een elektronisch stemsysteem voor verkiezingen en referenda dat bestaat uit een Mobile Web App, een API en een Backoffice en rekening houdt met authenticatie, privacy, beveiliging en integriteit. Technologieën: JavaScript, Laravel, MySQL, PHP, Vue.js ... </small>
+<small>**azdelta** - Opdracht: doel is het ontwikkelen van een website die kinderen informeert over een verblijf in het ziekenhuis. De bezoeker kiest bij aanvang uit een van drie leeftijdsgroepen, en krijgt informatie gepresenteerd passend bij deze leeftijd. Technologieën: HTML, CSS, JavaScript, MySQL, PHP, Drupal, Angular, ... . Zie [azdelta kinderafdeling](http://kinderafdeling.azdelta.be/)</small>

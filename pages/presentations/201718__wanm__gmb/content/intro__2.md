@@ -1,7 +1,7 @@
 GMB **/ Web & New Media**
 -------------------------
 
-- **Design** & **Prototyping** van **nieuwe media**  
+- **Trends watching** van **nieuwe media**  
   <small>Website, Mobile, Wearables …</small>
 - **User eXperience Design** van **nieuwe media**
 - **Development** van **statische websites**

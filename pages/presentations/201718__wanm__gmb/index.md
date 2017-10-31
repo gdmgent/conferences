@@ -31,3 +31,9 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-3.md' }}"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-4.md' }}"></section>
 </section>
+<section class="slide__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__2.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_webd2_downtown.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__15.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_azdelta.png"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__16.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_gazet.png"></section>
+</section>
