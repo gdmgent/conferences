@@ -59,3 +59,10 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__18.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_ep_trots.png"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__19.md' }}" data-ahs-full-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/1617_bp_streetartmap.png"></section>
 </section>
+<section class="slide__chapter">
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/extra__1.md' }}" class="home"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/extra__2.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/extra__3.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/extra__4.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/extra__5.md' }}"></section>
+</section>

@@ -1,7 +1,7 @@
 CMO **/ Student**
 ---------------
 
-Student CMO heeft een ernstig geval van **CLIPO**
+Student GMB heeft een ernstig geval van **CLIPO**
 
 - **Creativiteit**  
   <small>Bedenken van concepten en eigen ontwerpen maken.</small>

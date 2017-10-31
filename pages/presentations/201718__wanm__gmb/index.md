@@ -26,8 +26,8 @@ page_styles: ['/css/ahs.css']
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__1.md' }}" class="home"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__2.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-1.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-2.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-3.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-4.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-1.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-2.md' }}" ></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-3.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3-4.md' }}"></section>
 </section>
