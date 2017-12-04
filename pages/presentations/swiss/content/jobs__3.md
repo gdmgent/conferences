@@ -2,7 +2,7 @@ Jobs **/ Web & Mobile**
 -----------------------
 
 - **Mobile Apps Developer**  
-  <small>Ionic, React Native, Xamarin, ...</small> 
+  <small>Ionic, React Native, Xamarin, …</small> 
 - **Contentmanagementsystemen**  
   <small>Drupal or WordPress</small>
   - **Designer**  

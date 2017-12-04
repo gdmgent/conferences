@@ -1,4 +1,4 @@
-Jobs **/ Maar ook...**
+Jobs **/ But also...**
 -------------------
 
 - **Mixed Reality Developer**
