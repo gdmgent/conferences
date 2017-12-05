@@ -30,10 +30,7 @@ page_styles: ['/css/ahs.css']
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__2.md' }}" data-ahs-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/swiss/wot11.jpg"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__3.md' }}" data-ahs-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/swiss/wot10.jpg"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__4.md' }}" data-ahs-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/swiss/wot7.jpg"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__5.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__6.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__7.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__8.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/wot__5.md' }}" data-ahs-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/swiss/wot6.jpg"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/hackathon__1.md' }}" class="home"></section>
@@ -49,11 +46,8 @@ page_styles: ['/css/ahs.css']
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__1.md' }}" class="home"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__2.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__3.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__4.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__5.md' }}"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__6.md' }}"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__2.md' }}" data-ahs-background-image="https://media.giphy.com/media/D8D6zIdj7wNJ6/giphy.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/bootcamp__3.md' }}" data-ahs-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/swiss/terminal.jpg"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__1.md' }}" class="home"></section>
