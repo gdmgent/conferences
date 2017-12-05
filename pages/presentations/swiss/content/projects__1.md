@@ -1,4 +1,4 @@
-Projecten
-=========
+Showcase
+========
 
-Welke projecten zijn het resultaat van jullie creativiteit, leergierigheid, inzet, passie en open geest?
+Results of the CLIPO mentality by NMD-students.
