@@ -5,10 +5,10 @@
 # MIT License
 layout: shared/base
 libs_styles: ['/vendor/reveal.js/css/reveal.css']
-libs_scripts: ['/vendor/reveal.js/lib/js/head.min.js', '/vendor/reveal.js/js/reveal.js']
+libs_scripts: ['/vendor/reveal.js/lib/js/head.min.js', '/vendor/reveal.js/js/reveal.js','/vendor/particles.js/particles.js']
 base_scripts: ['/js/revealjs.services.js', '/js/revealjs.js']
 ---
-
+<div id="particles-js" style="position: absolute;top:0;left:0;z-index:-9999;width:100vw;height:100vh"></div>
 <div class="reveal">
   <div class="slides slides--fullscreen">
     {{ content }}
