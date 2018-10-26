@@ -1,10 +1,11 @@
 /// reveal.js Navigation Controls
 
 .reveal {
-   $color-disabled: #000;
-   $color-enabled: #000;
-   $color-hover: map-get($map: $color-ahs, $key: groen);
+  $color-disabled: #000;
+  $color-enabled: #64d8b5;
+  $color-hover: map-get($map: $color-ahs, $key: groen);
   .controls {
+    color: $color-enabled;
     .navigate- {
       &down {
         border-top-color: $color-disabled;

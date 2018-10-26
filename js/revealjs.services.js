@@ -27,12 +27,12 @@ var RevealService = {
 
       // Optional reveal.js plugins
       dependencies: [
-          { src: window.baseurl + '/vendor/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: window.baseurl + '/vendor/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: window.baseurl + '/vendor/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: window.baseurl + '/vendor/reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-          { src: window.baseurl + '/vendor/reveal.js/plugin/zoom-js/zoom.js', async: true },
-          { src: window.baseurl + '/vendor/reveal.js/plugin/notes/notes.js', async: true }
+          { src: window.baseurl + '/vendor/revealjs/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: window.baseurl + '/vendor/revealjs/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: window.baseurl + '/vendor/revealjs/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+          { src: window.baseurl + '/vendor/revealjs/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+          { src: window.baseurl + '/vendor/revealjs/plugin/zoom-js/zoom.js', async: true },
+          { src: window.baseurl + '/vendor/revealjs/plugin/notes/notes.js', async: true }
       ]
     }); 
 
