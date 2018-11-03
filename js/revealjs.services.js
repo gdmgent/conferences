@@ -51,6 +51,7 @@ var RevealService = {
               var img = document.createElement('span');
               img.setAttribute('class', 'ahs-background-image');
               img.style.backgroundImage = "url(" + slide.dataset.ahsBackgroundImage + ")";
+              img.style.backgroundPosition = (slide.dataset.ahsBackgroundPosition)?slide.dataset.ahsBackgroundPosition:'center center';
               slide.insertBefore(img, slide.firstElementChild);
             }
             if (slide.getAttribute("data-ahs-full-background-image")) {

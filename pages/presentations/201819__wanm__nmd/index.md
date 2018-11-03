@@ -27,15 +27,16 @@ page_styles: ['/css/ahs.css']
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content.md' }}" class="home"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__1.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__2.md' }}" data-ahs-background-image="http://res.cloudinary.com/dk1rn2kmf/image/upload/v1486523096/typescript-hero_vxxzuk.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3.md' }}" data-ahs-background-image="https://www.drupal.org/files/screencast.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__4.md' }}" data-ahs-background-image="https://i.giphy.com/media/c5RF9309KiAbm/source.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__1.md' }}" data-ahs-background-image="https://www.eternalorganizer.com/wp-content/uploads/2017/09/Web-1.jpg"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__2.md' }}" data-ahs-background-image="https://alfapeople.com/uk/wp-content/uploads/sites/8/2016/01/AlfaPeople-Best-Practice-JavaScript-Code-Quality-780x551.jpg"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__3.md' }}" data-ahs-background-image="https://cdn-images-1.medium.com/max/2000/1*5pIi6YK3tw5k5MIPu4NNww.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__4.md' }}" data-ahs-background-image="https://line25.com/wp-content/uploads/2014/animated/1.gif"></section>
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__5.md' }}" data-ahs-background-image="https://i.giphy.com/media/c5RF9309KiAbm/source.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__6.md' }}" data-ahs-background-image="https://i.giphy.com/media/c5RF9309KiAbm/source.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__7.md' }}" data-ahs-background-image="https://i.giphy.com/media/c5RF9309KiAbm/source.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__8.md' }}" data-ahs-background-image="https://i.giphy.com/media/c5RF9309KiAbm/source.gif"></section>
-    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__9.md' }}" data-ahs-background-image="https://i.giphy.com/media/c5RF9309KiAbm/source.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__6.md' }}" data-ahs-background-image="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/this-state.gif?sfvrsn=8f30c74e_1" data-ahs-background-position="center left"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__7.md' }}" data-ahs-background-image="https://www.drupal.org/files/screencast.gif"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__10.md' }}" data-ahs-background-image="https://pbs.twimg.com/media/DEEosbeXUAAf9cK.jpg:large"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__8.md' }}" data-ahs-background-image="https://pbs.twimg.com/media/DoGWuOhXUAcRRnj.jpg:large" data-ahs-background-position="center right"></section>
+    <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/education__content__9.md' }}" data-ahs-background-image="http://www.arteveldehogeschool.be/campusGDM/wanm/conferences/leerpad/itp.jpg" data-ahs-background-position="center left"></section>
 </section>
 <section class="slide__chapter">
     <section data-markdown="{{ page_back_str }}/{{ page_path_folder | append: 'content/projects__1.md' }}" class="home"></section>
