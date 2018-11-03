@@ -1,4 +1,4 @@
-Extra **Outside**
+Extra **/ Outside**
 ----------------------------------------------------
 
 - AppsForGhent - Editie 4
